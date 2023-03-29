@@ -5,13 +5,13 @@
     "license": "MIT",
     "authors": [
         {
-            "name": "nop",
-            "email": "575065955@qq.com"
+            "name": "shyiran",
+            "email":276657548@qq.com"
         }
     ],
     "autoload": {
         "psr-4": {
-            "wuxue107\\wordfilter\\" : "src/"
+            "shyiran\\wordfilter\\" : "src/"
         }
     },
     "require": {}
